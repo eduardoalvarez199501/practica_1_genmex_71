@@ -4,3 +4,4 @@ rope
 payphone
 tu mama no me quiere
 cambio desde github xd . naalgootas
+cambio alv git pull (para bajar este cambio ) combina git fetch y git merge en uno (no se puede comparar en local)
