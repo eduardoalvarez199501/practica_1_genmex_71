@@ -1,17 +1,17 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy <Tu Nombre>
+# 👋 ¡Hola! Soy Eduardo Alvarez 
 
 ### 💻 Full Stack Developer | ☕ Java | 🌐 Web | ☁️ Cloud | 🚀 Technology Enthusiast
 
 <p>
-  <a href="https://linkedin.com/in/tuusuario">
+  <a href="https://www.linkedin.com/in/eduardo-alvarez-a4507a152/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/tuusuario">
+  <a href="https://github.com/eduardoalvarez199501">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:tucorreo@correo.com">
+  <a href="mailto:eduardoalvarez199501@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -27,9 +27,9 @@
 ```java
 public class Developer {
 
-    String name = "<Your Name>";
+    String name = "Eduardo Alvarez";
     String role = "Software Developer";
-    String location = "<Country>";
+    String location = "Mexico";
     String[] languages = {
         "Java",
         "JavaScript",
@@ -49,7 +49,7 @@ public class Developer {
     boolean coffee = true;
 
     public String lifeGoal(){
-        return "Build software that makes people's lives easier.";
+        return "Hacer posible, lo que el mundo considera imposible !";
     }
 }
 ```
@@ -62,11 +62,9 @@ public class Developer {
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ## Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 
@@ -77,7 +75,6 @@ public class Developer {
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 
 ## Cloud & DevOps
-
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
