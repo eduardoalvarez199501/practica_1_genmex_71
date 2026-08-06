@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Bienvenido a mi Github!;Software+Developer;Always+Learning+New+Technologies;Building+Solutions+with+Code"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Bienvenido+a+mi+Github!;Software+Developer;Always+Learning+New+Technologies;Building+Solutions+with+Code"/>
 
 </div>
 
@@ -162,7 +162,7 @@ https://tuportfolio.com
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Gracias por visitar mi perfil!
 
 ![](https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge&color=blue)
 
